@@ -1,0 +1,26 @@
+.back, a{
+    margin-top: 5px;
+    background-color: #2880b9;
+    color: white;
+    text-decoration: none;
+    width: 70px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div{
+    text-align: center;
+    width: 30%;
+    height: auto;
+    border-radius: 31px;
+background: #ffffff;
+box-shadow:  5px 5px 6px #878787,
+             -5px -5px 6px #ffffff;
+}

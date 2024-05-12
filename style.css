@@ -1,0 +1,24 @@
+body{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    text-align: center;
+}
+
+.btn{
+    justify-content: center;
+    text-align: center;
+}
+
+.pendaftaran, a{
+    background-color: #000000;
+    color: rgb(255, 238, 0);
+    text-decoration: none;
+    width: 100px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
